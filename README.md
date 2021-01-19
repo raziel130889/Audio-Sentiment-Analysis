@@ -39,3 +39,16 @@ We approach this problem in three stages:
 ## Miscellaneous Information
 
 Please go through the [poster]() to get an overview of our project and also the different models we used and also the [report]() to learn more about the various papers we referred and the architecture specifications.
+
+## Installation
+This project need ffmpeg (you can use this file https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/ ), the version python suggest < 3.7.
+* convert.py
+    You should install:
+    ** pydub
+    `python convert.py folder_files_mp3`
+
+* extract_data.py
+
+* sentiment_classification.py
+
+    
